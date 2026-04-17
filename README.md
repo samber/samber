@@ -202,8 +202,6 @@ Ideal for teams that depend on `lo`, `mo`, `do`, `oops`, or `awesome-prometheus-
 
 </div>
 
----
-
 <div align="center">
 
 <img width="1" src="https://visitor-badge.laobi.icu/badge?page_id=samber.samber&style=flat-square">
