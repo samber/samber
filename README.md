@@ -177,7 +177,7 @@ All those green squares, and yet rent is still due every month.
 | 🔬 New features & research      | Exploring what Go can do next                              |
 | 🌍 Community support            | Answering questions, reviewing PRs, mentoring contributors |
 
-[![Become a sponsor](https://img.shields.io/badge/💖_Become_a_Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/samber)
+[![Become a sponsor](https://img.shields.io/badge/Become_a_Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/samber)
 
 ### 💎 Corporate Sponsorship Tiers
 
@@ -190,7 +190,7 @@ Ideal for teams that depend on `lo`, `mo`, `do`, `oops`, or `awesome-prometheus-
 | 🥈 **Supporter**          | Logo in sponsored repos (READMEs and websites)           |
 | 🥇 **Partner**            | Logo everywhere + priority issue response + co-marketing |
 
-[![Contact for partnership](https://img.shields.io/badge/📩_Contact_for_Partnership-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@samuel-berthe.fr)
+[![Contact for partnership](https://img.shields.io/badge/Contact_for_Partnership-0077B5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@samuel-berthe.fr)
 
 </div>
 
