@@ -58,58 +58,15 @@ At some point "just one more handler" stopped being a joke. When you have 1, the
 | 🎲 **[slog-sampling](https://github.com/samber/slog-sampling)**   | Log sampling policies to reduce high-volume noise                 |
 | 🃏 **[slog-mock](https://github.com/samber/slog-mock)**           | Mock handler for unit testing                                     |
 
-**HTTP middleware**
+**HTTP middleware** — 🍸 [slog-gin](https://github.com/samber/slog-gin) · 🔊 [slog-echo](https://github.com/samber/slog-echo) · 🕷️ [slog-fiber](https://github.com/samber/slog-fiber) · 🐿️ [slog-chi](https://github.com/samber/slog-chi) · 🌐 [slog-http](https://github.com/samber/slog-http)
 
-| Project                                                  | Description                           |
-| -------------------------------------------------------- | ------------------------------------- |
-| 🍸 **[slog-gin](https://github.com/samber/slog-gin)**     | Gin HTTP request logging middleware   |
-| 🔊 **[slog-echo](https://github.com/samber/slog-echo)**   | Echo HTTP request logging middleware  |
-| 🕷️ **[slog-fiber](https://github.com/samber/slog-fiber)** | Fiber HTTP request logging middleware |
-| 🐿️ **[slog-chi](https://github.com/samber/slog-chi)**     | Chi HTTP request logging middleware   |
-| 🌐 **[slog-http](https://github.com/samber/slog-http)**   | net/http request logging middleware   |
+**Monitoring & observability** — 📋 [slog-logstash](https://github.com/samber/slog-logstash) · 🖥️ [slog-syslog](https://github.com/samber/slog-syslog) · 🌊 [slog-fluentd](https://github.com/samber/slog-fluentd) · 📊 [slog-loki](https://github.com/samber/slog-loki) · 🐶 [slog-datadog](https://github.com/samber/slog-datadog) · 🛡️ [slog-sentry](https://github.com/samber/slog-sentry) · 🔭 [slog-otel](https://github.com/samber/slog-otel) · ⚫ [slog-graylog](https://github.com/samber/slog-graylog) · ⚡ [slog-quickwit](https://github.com/samber/slog-quickwit) · 📉 [slog-rollbar](https://github.com/samber/slog-rollbar) · 📈 [slog-betterstack](https://github.com/samber/slog-betterstack)
 
-**Monitoring & observability**
+**Notifications** — 💬 [slog-slack](https://github.com/samber/slog-slack) · ✈️ [slog-telegram](https://github.com/samber/slog-telegram) · 🪝 [slog-webhook](https://github.com/samber/slog-webhook) · 🟦 [slog-mattermost](https://github.com/samber/slog-mattermost) · 🔵 [slog-microsoft-teams](https://github.com/samber/slog-microsoft-teams)
 
-| Project                                                              | Description                    |
-| -------------------------------------------------------------------- | ------------------------------ |
-| 📋 **[slog-logstash](https://github.com/samber/slog-logstash)**       | Logstash handler               |
-| 🖥️ **[slog-syslog](https://github.com/samber/slog-syslog)**           | Syslog handler                 |
-| 🌊 **[slog-fluentd](https://github.com/samber/slog-fluentd)**         | Fluentd handler                |
-| 📊 **[slog-loki](https://github.com/samber/slog-loki)**               | Grafana Loki handler           |
-| 🐶 **[slog-datadog](https://github.com/samber/slog-datadog)**         | Datadog handler                |
-| 🛡️ **[slog-sentry](https://github.com/samber/slog-sentry)**           | Sentry error tracking handler  |
-| 🔭 **[slog-otel](https://github.com/samber/slog-otel)**               | OpenTelemetry handler          |
-| ⚫ **[slog-graylog](https://github.com/samber/slog-graylog)**         | Graylog GELF handler           |
-| ⚡ **[slog-quickwit](https://github.com/samber/slog-quickwit)**       | Quickwit search engine handler |
-| 📉 **[slog-rollbar](https://github.com/samber/slog-rollbar)**         | Rollbar error tracking handler |
-| 📈 **[slog-betterstack](https://github.com/samber/slog-betterstack)** | Better Stack (Logtail) handler |
+**Messaging & streaming** — 📨 [slog-kafka](https://github.com/samber/slog-kafka) · 🚀 [slog-nats](https://github.com/samber/slog-nats) · 📡 [slog-channel](https://github.com/samber/slog-channel) · 🗃️ [slog-parquet](https://github.com/samber/slog-parquet)
 
-**Notifications**
-
-| Project                                                                      | Description                          |
-| ---------------------------------------------------------------------------- | ------------------------------------ |
-| 💬 **[slog-slack](https://github.com/samber/slog-slack)**                     | Slack notification handler           |
-| ✈️ **[slog-telegram](https://github.com/samber/slog-telegram)**               | Telegram notification handler        |
-| 🪝 **[slog-webhook](https://github.com/samber/slog-webhook)**                 | Generic outbound webhook handler     |
-| 🟦 **[slog-mattermost](https://github.com/samber/slog-mattermost)**           | Mattermost notification handler      |
-| 🔵 **[slog-microsoft-teams](https://github.com/samber/slog-microsoft-teams)** | Microsoft Teams notification handler |
-
-**Messaging & streaming**
-
-| Project                                                      | Description                                     |
-| ------------------------------------------------------------ | ----------------------------------------------- |
-| 📨 **[slog-kafka](https://github.com/samber/slog-kafka)**     | Apache Kafka handler                            |
-| 🚀 **[slog-nats](https://github.com/samber/slog-nats)**       | NATS messaging handler                          |
-| 📡 **[slog-channel](https://github.com/samber/slog-channel)** | Go channel handler                              |
-| 🗃️ **[slog-parquet](https://github.com/samber/slog-parquet)** | Parquet file handler for analytical log storage |
-
-**Adapters**
-
-| Project                                                      | Description                                |
-| ------------------------------------------------------------ | ------------------------------------------ |
-| ⚡ **[slog-zap](https://github.com/samber/slog-zap)**         | Adapter bridging slog to Uber's zap logger |
-| 0️⃣ **[slog-zerolog](https://github.com/samber/slog-zerolog)** | Adapter bridging slog to zerolog           |
-| 🔴 **[slog-logrus](https://github.com/samber/slog-logrus)**   | Adapter bridging slog to logrus            |
+**Adapters** — ⚡ [slog-zap](https://github.com/samber/slog-zap) · 0️⃣ [slog-zerolog](https://github.com/samber/slog-zerolog) · 🔴 [slog-logrus](https://github.com/samber/slog-logrus)
 
 ---
 
@@ -131,6 +88,23 @@ The stuff that didn't fit anywhere else but was too useful to delete.
 | 📊 **[go-psi](https://github.com/samber/go-psi)**                         | Linux Pressure Stall Information (PSI) reader and starvation notifier                                |
 | 🔍 **[go-quickwit](https://github.com/samber/go-quickwit)**               | Go ingestion client for Quickwit search engine                                                       |
 | 🛡️ **[go-safe-csv-writer](https://github.com/samber/go-safe-csv-writer)** | `encoding/csv` fork that prevents CSV injection and data exfiltration                                |
+
+---
+
+## Claude Code / AI Tooling
+
+AI-native tooling built by someone who spends way too much time inside the tool. You know... dopamine...
+
+| Project                                                                          | Description                                                                |
+| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| 🛠️ **[cc](https://github.com/samber/cc)**                                         | Claude Code toolchain and marketplace                                      |
+| ☕ **[cc-caffeine](https://github.com/samber/cc-caffeine)**                       | Keep Claude Code alive while commuting, prevents laptop sleep              |
+| 🧠 **[cc-skills](https://github.com/samber/cc-skills)**                           | Reusable AI agent skills for marketing and engineering                     |
+| 🐹 **[cc-skills-golang](https://github.com/samber/cc-skills-golang)**             | AI agent skills purpose-built for production Go projects                   |
+| 🤖 **[go-playground-mcp](https://github.com/samber/go-playground-mcp)**           | MCP server for Go Playground, run and share Go code from your AI assistant |
+| 🛡️ **[the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall)** | Curated list of sites blocking AI crawlers via `robots.txt`                |
+| 🔢 **[tiktoken-cli](https://github.com/samber/tiktoken-cli)**                     | Count LLM tokens in files and directories from the terminal                |
+| 📊 **[vscode-token-counter](https://github.com/samber/vscode-token-counter)**     | VS Code extension showing live token counts in the status bar              |
 
 ---
 
@@ -172,23 +146,6 @@ Random things? Maybe. Useless? Never.
 | 📝 **[headercheck](https://github.com/samber/headercheck)**                   | Linter that checks and fixes required file headers, golangci-lint compatible |
 | 🔑 **[sync-ssh-keys](https://github.com/samber/sync-ssh-keys)**               | Sync server `~/.ssh/authorized_keys` from GitHub/GitLab org membership       |
 | 🔀 **[git-contrib-graph](https://github.com/samber/git-contrib-graph)**       | Git contribution graph rendered in the terminal                              |
-
----
-
-## Claude Code / AI Tooling
-
-AI-native tooling built by someone who spends way too much time inside the tool. You know... dopamine...
-
-| Project                                                                          | Description                                                                |
-| -------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| 🛠️ **[cc](https://github.com/samber/cc)**                                         | Claude Code toolchain and marketplace                                      |
-| ☕ **[cc-caffeine](https://github.com/samber/cc-caffeine)**                       | Keep Claude Code alive while commuting, prevents laptop sleep              |
-| 🧠 **[cc-skills](https://github.com/samber/cc-skills)**                           | Reusable AI agent skills for marketing and engineering                     |
-| 🐹 **[cc-skills-golang](https://github.com/samber/cc-skills-golang)**             | AI agent skills purpose-built for production Go projects                   |
-| 🤖 **[go-playground-mcp](https://github.com/samber/go-playground-mcp)**           | MCP server for Go Playground, run and share Go code from your AI assistant |
-| 🛡️ **[the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall)** | Curated list of sites blocking AI crawlers via `robots.txt`                |
-| 🔢 **[tiktoken-cli](https://github.com/samber/tiktoken-cli)**                     | Count LLM tokens in files and directories from the terminal                |
-| 📊 **[vscode-token-counter](https://github.com/samber/vscode-token-counter)**     | VS Code extension showing live token counts in the status bar              |
 
 ---
 
