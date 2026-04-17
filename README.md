@@ -4,6 +4,8 @@
 
 📍 Nantes, France &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 [samuel-berthe.fr](http://samuel-berthe.fr/) &nbsp;&nbsp;|&nbsp;&nbsp; 📝 [Substack](https://samuelberthe.substack.com/) &nbsp;&nbsp;|&nbsp;&nbsp; 🐦 [@samuelberthe](https://twitter.com/samuelberthe) &nbsp;&nbsp;|&nbsp;&nbsp; 🦋 [@samber.bsky.social](https://bsky.app/profile/samber.bsky.social) &nbsp;&nbsp;|&nbsp;&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/samuelberthe/)
 
+<img alt="image" src="https://github.com/user-attachments/assets/37a4f806-1361-47b6-b7a7-92c544f56b3a" />
+
 </div>
 
 ---
