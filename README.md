@@ -168,8 +168,6 @@ All those green squares, and yet rent is still due every month.
 > My open-source libraries ship in production at companies of all sizes, maybe yours too.
 > Sponsorship keeps the libraries maintained, documented, and evolving.
 
-[![Become a sponsor](https://img.shields.io/badge/💖_Become_a_Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/samber)
-
 <div align="center">
 
 | What your sponsorship funds    |                                                            |
@@ -179,7 +177,7 @@ All those green squares, and yet rent is still due every month.
 | 🔬 New features & research      | Exploring what Go can do next                              |
 | 🌍 Community support            | Answering questions, reviewing PRs, mentoring contributors |
 
-<br>
+[![Become a sponsor](https://img.shields.io/badge/💖_Become_a_Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/samber)
 
 ### 💎 Corporate Sponsorship Tiers
 
