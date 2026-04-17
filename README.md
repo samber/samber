@@ -18,7 +18,7 @@ Adoption comes with perks: AI-slop PRs, and the rare keyboard warrior ready to d
 
 The ecosystem kept growing from there: monads, dependency injection, caching, structured errors, and **35+ `log/slog` handlers**. If your stack uses Terraform, Kubernetes, the Grafana stack, apps you've definitely opened today (if you're Chinese), or a few places you'd rather not think about 😅 #pr0n — there's a fair chance my code is already quietly running somewhere.
 
-On the community side: I started the [Generative AI meetup in Nantes (Fr)](https://www.meetup.com/generative-ai-nantes) from scratch: no audience, no budget, no certainty anyone would show up. It became the largest GenAI meetup in France. I also run [hackathons](https://shift-hackathon.com/), [speak at conferences](https://github.com/samber/talks), and write on [Substack](https://samuelberthe.substack.com/).
+On the community side: I started the [Generative AI meetup in Nantes (Fr)](https://www.meetup.com/generative-ai-nantes) from scratch: no audience, no budget, no certainty anyone would show up. It became the largest GenAI meetup in France 🇫🇷. I also run [hackathons](https://shift-hackathon.com/), [speak at conferences](https://github.com/samber/talks), and write on [Substack](https://samuelberthe.substack.com/).
 
 If your team ships with any of my libraries and you want to help me keep doing this, [sponsoring on GitHub](https://github.com/sponsors/samber) goes a long way. No SLA included, but bugs get fixed with genuine enthusiasm.
 
@@ -58,15 +58,15 @@ At some point "just one more handler" stopped being a joke. When you have 1, the
 | 🎲 **[slog-sampling](https://github.com/samber/slog-sampling)**   | Log sampling policies to reduce high-volume noise                 |
 | 🃏 **[slog-mock](https://github.com/samber/slog-mock)**           | Mock handler for unit testing                                     |
 
-**HTTP middleware** — 🍸 [slog-gin](https://github.com/samber/slog-gin) · 🔊 [slog-echo](https://github.com/samber/slog-echo) · 🕷️ [slog-fiber](https://github.com/samber/slog-fiber) · 🐿️ [slog-chi](https://github.com/samber/slog-chi) · 🌐 [slog-http](https://github.com/samber/slog-http)
+**HTTP middleware** — [slog-gin](https://github.com/samber/slog-gin) · [slog-echo](https://github.com/samber/slog-echo) · [slog-fiber](https://github.com/samber/slog-fiber) · [slog-chi](https://github.com/samber/slog-chi) · [slog-http](https://github.com/samber/slog-http)
 
-**Monitoring & observability** — 📋 [slog-logstash](https://github.com/samber/slog-logstash) · 🖥️ [slog-syslog](https://github.com/samber/slog-syslog) · 🌊 [slog-fluentd](https://github.com/samber/slog-fluentd) · 📊 [slog-loki](https://github.com/samber/slog-loki) · 🐶 [slog-datadog](https://github.com/samber/slog-datadog) · 🛡️ [slog-sentry](https://github.com/samber/slog-sentry) · 🔭 [slog-otel](https://github.com/samber/slog-otel) · ⚫ [slog-graylog](https://github.com/samber/slog-graylog) · ⚡ [slog-quickwit](https://github.com/samber/slog-quickwit) · 📉 [slog-rollbar](https://github.com/samber/slog-rollbar) · 📈 [slog-betterstack](https://github.com/samber/slog-betterstack)
+**Monitoring & observability** — [slog-logstash](https://github.com/samber/slog-logstash) · [slog-syslog](https://github.com/samber/slog-syslog) · [slog-fluentd](https://github.com/samber/slog-fluentd) · [slog-loki](https://github.com/samber/slog-loki) · [slog-datadog](https://github.com/samber/slog-datadog) · [slog-sentry](https://github.com/samber/slog-sentry) · [slog-otel](https://github.com/samber/slog-otel) · [slog-graylog](https://github.com/samber/slog-graylog) · [slog-quickwit](https://github.com/samber/slog-quickwit) · [slog-rollbar](https://github.com/samber/slog-rollbar) · [slog-betterstack](https://github.com/samber/slog-betterstack)
 
-**Notifications** — 💬 [slog-slack](https://github.com/samber/slog-slack) · ✈️ [slog-telegram](https://github.com/samber/slog-telegram) · 🪝 [slog-webhook](https://github.com/samber/slog-webhook) · 🟦 [slog-mattermost](https://github.com/samber/slog-mattermost) · 🔵 [slog-microsoft-teams](https://github.com/samber/slog-microsoft-teams)
+**Notifications** — [slog-slack](https://github.com/samber/slog-slack) · [slog-telegram](https://github.com/samber/slog-telegram) · [slog-webhook](https://github.com/samber/slog-webhook) · [slog-mattermost](https://github.com/samber/slog-mattermost) · [slog-microsoft-teams](https://github.com/samber/slog-microsoft-teams)
 
-**Messaging & streaming** — 📨 [slog-kafka](https://github.com/samber/slog-kafka) · 🚀 [slog-nats](https://github.com/samber/slog-nats) · 📡 [slog-channel](https://github.com/samber/slog-channel) · 🗃️ [slog-parquet](https://github.com/samber/slog-parquet)
+**Messaging & streaming** — [slog-kafka](https://github.com/samber/slog-kafka) · [slog-nats](https://github.com/samber/slog-nats) · [slog-channel](https://github.com/samber/slog-channel) · [slog-parquet](https://github.com/samber/slog-parquet)
 
-**Adapters** — ⚡ [slog-zap](https://github.com/samber/slog-zap) · 0️⃣ [slog-zerolog](https://github.com/samber/slog-zerolog) · 🔴 [slog-logrus](https://github.com/samber/slog-logrus)
+**Adapters** — [slog-zap](https://github.com/samber/slog-zap) · [slog-zerolog](https://github.com/samber/slog-zerolog) · [slog-logrus](https://github.com/samber/slog-logrus)
 
 ---
 
