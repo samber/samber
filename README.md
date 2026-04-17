@@ -8,7 +8,7 @@
 
 </div>
 
----
+<br>
 
 Hi. I'm Samuel. I write Go libraries. It started as a hobby, turned into a side project, and is now my attempt at making open source a full-time job. The jury is still out. The coffee budget is not.
 
