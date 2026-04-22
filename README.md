@@ -115,7 +115,8 @@ Lists of things so you don't have to ChatGPT them at 2am.
 | Project                                                                                | Description                                                       |
 | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | ⚡ **[awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)** | 1.000 production-ready Prometheus alerting rules for 100 services |
-| 📊 **[awesome-olap](https://github.com/samber/awesome-olap)**                           | Curated list of OLAP databases and analytical query engines       |
+| 📊 **[awesome-olap](https://github.com/samber/awesome-olap)**                          | Curated list of OLAP databases and analytical query engines       |
+| 🫟 **[awesome-user-research](https://github.com/samber/awesome-user-research)**        | Curated list of tools for Product Managers and UX Researchers     |
 
 ---
 
