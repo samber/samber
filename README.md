@@ -83,7 +83,7 @@ The stuff that didn't fit anywhere else but was too useful to delete.
 | 🔁 **[go-singleflightx](https://github.com/samber/go-singleflightx)**     | `x/sync/singleflight` with generics and an extended API                                              |
 | 📦 **[go-batchify](https://github.com/samber/go-batchify)**               | Group and deduplicate concurrent tasks to reduce downstream load                                     |
 | 🔤 **[go-type-to-string](https://github.com/samber/go-type-to-string)**   | Extract a string representation of any Go type                                                       |
-| 📏 **[go-metered-stream](https://github.com/samber/go-metered-stream)**   | Drop-in `io.Reader`/`io.Writer` that tracks total bytes transferred                                  |
+| 📏 **[go-metered-io](https://github.com/samber/go-metered-io)**   | Drop-in `io.Reader`/`io.Writer` that tracks total bytes transferred                                  |
 | 🔌 **[go-tcp-pool](https://github.com/samber/go-tcp-pool)**               | TCP connection pool with auto-reconnect as a `net.Conn` drop-in                                      |
 | 📊 **[go-psi](https://github.com/samber/go-psi)**                         | Linux Pressure Stall Information (PSI) reader and starvation notifier                                |
 | 🔍 **[go-quickwit](https://github.com/samber/go-quickwit)**               | Go ingestion client for Quickwit search engine                                                       |
@@ -131,7 +131,7 @@ Alert on everything. Sleep on nothing.
 | ⚡ **[awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)**                       | 1.000 production-ready Prometheus alerting rules for 100 services                                                               |
 | 📊 **[prometheus-query-js](https://github.com/samber/prometheus-query-js)**                                   | JavaScript client for the Prometheus HTTP query API                                                                             |
 | 📈 **[chartjs-plugin-datasource-prometheus](https://github.com/samber/chartjs-plugin-datasource-prometheus)** | Prometheus datasource plugin for Chart.js                                                                                       |
-| 📤 **[promql-exporter](https://github.com/samber/promql_exporter)**                                           | Prometheus exporter that re-exposes PromQL query results as metrics (replacing federation and remote-write for niche use-cases) |
+| 📤 **[promql-exporter](https://github.com/samber/promql-exporter)**                                           | Prometheus exporter that re-exposes PromQL query results as metrics (replacing federation and remote-write for niche use-cases) |
 | 🏓 **[hyperping-exporter](https://github.com/samber/hyperping-exporter)**                                     | Prometheus exporter for Hyperping uptime monitoring                                                                             |
 | ☁️ **[clevercloud-exporter](https://github.com/samber/clevercloud-exporter)**                                 | Prometheus exporter for Clever Cloud infrastructure metrics                                                                     |
 
