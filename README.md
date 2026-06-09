@@ -143,6 +143,7 @@ Random things? Maybe. Useless? Never.
 
 | Project                                                                      | Description                                                                  |
 | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 📈 **[oss-kpi](https://github.com/samber/oss-kpi)**                            | Dashboard to track open-source project KPIs: stars, forks, downloads, and more |
 | 🧾 **[invoice-as-a-service](https://github.com/samber/invoice-as-a-service)** | Generate professional PDF invoices from a single HTTP POST, with S3 upload   |
 | 📝 **[headercheck](https://github.com/samber/headercheck)**                   | Linter that checks and fixes required file headers, golangci-lint compatible |
 | 🔑 **[sync-ssh-keys](https://github.com/samber/sync-ssh-keys)**               | Sync server `~/.ssh/authorized_keys` from GitHub/GitLab org membership       |
