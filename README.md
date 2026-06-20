@@ -88,6 +88,7 @@ The stuff that didn't fit anywhere else but was too useful to delete.
 | 📊 **[go-psi](https://github.com/samber/go-psi)**                         | Linux Pressure Stall Information (PSI) reader and starvation notifier                                |
 | 🔍 **[go-quickwit](https://github.com/samber/go-quickwit)**               | Go ingestion client for Quickwit search engine                                                       |
 | 🛡️ **[go-safe-csv-writer](https://github.com/samber/go-safe-csv-writer)** | `encoding/csv` fork that prevents CSV injection and data exfiltration                                |
+| 📦 **[go-pkggodev-client](https://github.com/samber/go-pkggodev-client)** | Typed Go client for the pkg.go.dev API |
 
 ---
 
