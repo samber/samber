@@ -106,6 +106,7 @@ AI-native tooling built by someone who spends way too much time inside the tool.
 | 🛡️ **[the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall)** | Curated list of sites blocking AI crawlers via `robots.txt`                |
 | 🔢 **[tiktoken-cli](https://github.com/samber/tiktoken-cli)**                     | Count LLM tokens in files and directories from the terminal                |
 | 📊 **[vscode-token-counter](https://github.com/samber/vscode-token-counter)**     | VS Code extension showing live token counts in the status bar              |
+| 📊 **[godig](https://github.com/samber/godig)**                                   | CLI & MCP server for pkg.go.dev - replaces Context7 for Go projects        |
 
 ---
 
