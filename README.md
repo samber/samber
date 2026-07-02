@@ -14,7 +14,7 @@ Hi. I'm Samuel. I write Go libraries. It started as a hobby, turned into a side 
 
 It began the usual way: I needed something at work that didn't exist, built it, and thought "someone else probably needs this too." That pattern never stopped. The most well-known result is **[lo](https://github.com/samber/lo)**, a utility library built on Go generics. It's now used in production at companies of all sizes, such as RedHat, VMware, Tencent, Bytedance, Grafana, and many others.
 
-Adoption comes with perks: AI-slop PRs, and the rare keyboard warrior ready to die on a typo 🙃. But honestly? The community around these projects is overwhelmingly kind, sharp, and generous. And I'm grateful for every single one of you. 💖
+The community around these projects is overwhelmingly kind, sharp, and generous. Yes, even the occasional keyboard warrior ready to die on a typo 🙃.  And I'm grateful for every single one of you. 💖
 
 The ecosystem kept growing from there: monads, dependency injection, caching, structured errors, and **35+ `log/slog` handlers**. If your stack uses Terraform, Kubernetes, the Grafana stack, apps you've definitely opened today (if you're Chinese), or a few places you'd rather not think about 😅 #pr0n — there's a fair chance my code is already quietly running somewhere.
 
