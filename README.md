@@ -202,7 +202,7 @@ Ideal for teams that depend on `lo`, `mo`, `do`, `oops`, or `awesome-prometheus-
 
 <div align="center">
 
-**[DBOS](https://www.dbos.dev/?utm_campaign=gh-smbr)** · **[Better Stack](https://betterstack.com/)** · **[Dash0](https://www.dash0.com/?utm_campaign=148395251-samber%20github%20sponsorship&utm_source=github&utm_medium=sponsorship&utm_content=samber)** · **[CAST AI](https://cast.ai/samuel)**
+**[Better Stack](https://betterstack.com/)** · **[Dash0](https://www.dash0.com/?utm_campaign=148395251-samber%20github%20sponsorship&utm_source=github&utm_medium=sponsorship&utm_content=samber)** · **[CAST AI](https://cast.ai/samuel)**
 
 </div>
 
