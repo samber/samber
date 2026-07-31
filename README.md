@@ -104,6 +104,7 @@ AI-native tooling built by someone who spends way too much time inside the tool.
 | 🐹 **[cc-skills-golang](https://github.com/samber/cc-skills-golang)**             | AI agent skills purpose-built for production Go projects                   |
 | 🤖 **[go-playground-mcp](https://github.com/samber/go-playground-mcp)**           | MCP server for Go Playground, run and share Go code from your AI assistant |
 | 🛡️ **[the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall)** | Curated list of sites blocking AI crawlers via `robots.txt`                |
+| 🧠 **[awesome-ai-native](https://github.com/samber/awesome-ai-native)**           | Curated list of AI-native tools where the LLM is the product itself        |
 | 🔢 **[tiktoken-cli](https://github.com/samber/tiktoken-cli)**                     | Count LLM tokens in files and directories from the terminal                |
 | 📊 **[vscode-token-counter](https://github.com/samber/vscode-token-counter)**     | VS Code extension showing live token counts in the status bar              |
 | 📊 **[godig](https://github.com/samber/godig)**                                   | CLI & MCP server for pkg.go.dev - replaces Context7 for Go projects        |
@@ -114,11 +115,12 @@ AI-native tooling built by someone who spends way too much time inside the tool.
 
 Lists of things so you don't have to ChatGPT them at 2am.
 
-| Project                                                                                | Description                                                       |
-| -------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| ⚡ **[awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)** | 1.000 production-ready Prometheus alerting rules for 100 services |
-| 📊 **[awesome-olap](https://github.com/samber/awesome-olap)**                          | Curated list of OLAP databases and analytical query engines       |
-| 🫟 **[awesome-user-research](https://github.com/samber/awesome-user-research)**        | Curated list of tools for Product Managers and UX Researchers     |
+| Project                                                                                | Description                                                         |
+| -------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| ⚡ **[awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts)** | 1.000 production-ready Prometheus alerting rules for 100 services   |
+| 📊 **[awesome-olap](https://github.com/samber/awesome-olap)**                          | Curated list of OLAP databases and analytical query engines         |
+| 🫟 **[awesome-user-research](https://github.com/samber/awesome-user-research)**        | Curated list of tools for Product Managers and UX Researchers       |
+| 🧠 **[awesome-ai-native](https://github.com/samber/awesome-ai-native)**                | Curated list of AI-native tools where the LLM is the product itself |
 
 ---
 
