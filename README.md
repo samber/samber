@@ -214,3 +214,9 @@ Ideal for teams that depend on `lo`, `mo`, `do`, `oops`, or `awesome-prometheus-
 <!-- ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=samber.samber&style=flat-square) -->
 
 </div>
+
+<div align="center">
+
+[ORCID](https://orcid.org/0009-0000-2060-7721)
+
+</div>
