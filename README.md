@@ -99,12 +99,12 @@ AI-native tooling built by someone who spends way too much time inside the tool.
 | Project                                                                          | Description                                                                |
 | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | 🛠️ **[cc](https://github.com/samber/cc)**                                         | Claude Code toolchain and marketplace                                      |
-| 🎙️ **[developer-relations-skills](https://github.com/samber/developer-relations-skills)**             | Aent skills for DevRels and Developer Advocates   |
-| 🔁 **[developer-platform-skills](https://github.com/samber/developer-platform-skills)**             | Agent skills for developer platforms and SDK developer experience |
-| 🪭 **[dev-event-organizer-skills](https://github.com/samber/dev-event-organizer-skills)**             | Agent Skills for technical event organizers |
 | ☕ **[cc-caffeine](https://github.com/samber/cc-caffeine)**                       | Keep Claude Code alive while commuting, prevents laptop sleep              |
 | 🧠 **[cc-skills](https://github.com/samber/cc-skills)**                           | Reusable AI agent skills for marketing and engineering                     |
 | 🐹 **[cc-skills-golang](https://github.com/samber/cc-skills-golang)**             | AI agent skills purpose-built for production Go projects                   |
+| 🎙️ **[developer-relations-skills](https://github.com/samber/developer-relations-skills)**             | Agent skills for DevRels and Developer Advocates   |
+| 🔁 **[developer-platform-skills](https://github.com/samber/developer-platform-skills)**             | Agent skills for developer platforms and SDK developer experience |
+| 🪭 **[dev-event-organizer-skills](https://github.com/samber/dev-event-organizer-skills)**             | Agent Skills for technical event organizers |
 | 🤖 **[go-playground-mcp](https://github.com/samber/go-playground-mcp)**           | MCP server for Go Playground, run and share Go code from your AI assistant |
 | 🛡️ **[the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall)** | Curated list of sites blocking AI crawlers via `robots.txt`                |
 | 🧠 **[awesome-ai-native](https://github.com/samber/awesome-ai-native)**           | Curated list of AI-native tools where the LLM is the product itself        |
