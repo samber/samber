@@ -18,7 +18,7 @@ The community around these projects is overwhelmingly kind, sharp, and generous.
 
 The ecosystem kept growing from there: monads, dependency injection, caching, structured errors, and 35+ `log/slog` handlers. If your stack uses Terraform, Kubernetes, the Grafana stack, some apps you've definitely opened today (if you're Chinese), or a few places you'd rather not think about 😅 #pr0n — there's a fair chance my code is already quietly running somewhere.
 
-On the community side: I started the [Generative AI meetup in Nantes (Fr)](https://www.meetup.com/generative-ai-nantes) from scratch: no audience, no budget, no certainty anyone would show up. It became the largest GenAI meetup in France 🇫🇷. I also run [hackathons](https://shift-hackathon.com/), [speak at conferences](https://github.com/samber/talks), and write on [Substack](https://samuelberthe.substack.com/).
+On the community side: I started the [Generative AI meetup in Nantes (Fr)](https://www.meetup.com/generative-ai-nantes) from scratch: no audience, no budget, no certainty anyone would show up. It became the largest meetup in France 🇫🇷. I also run [hackathons](https://shift-hackathon.com/), [speak at conferences](https://github.com/samber/talks), and write on [Substack](https://samuelberthe.substack.com/).
 
 If your team ships with any of my libraries and you want to help me keep doing this, [sponsoring on GitHub](https://github.com/sponsors/samber) goes a long way. No SLA included, but bugs get fixed with genuine enthusiasm.
 
