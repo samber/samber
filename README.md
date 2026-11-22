@@ -105,6 +105,7 @@ AI-native tooling built by someone who spends way too much time inside the tool.
 | 🎙️ **[developer-relations-skills](https://github.com/samber/developer-relations-skills)**             | Agent skills for DevRels and Developer Advocates   |
 | 🔁 **[developer-platform-skills](https://github.com/samber/developer-platform-skills)**             | Agent skills for developer platforms and SDK developer experience |
 | 🪭 **[dev-event-organizer-skills](https://github.com/samber/dev-event-organizer-skills)**             | Agent Skills for technical event organizers |
+| 👥 **[google-contacts-mcp](https://github.com/samber/google-contacts-mcp)**       | Remote MCP server for Google Contacts                                      |
 | 🤖 **[go-playground-mcp](https://github.com/samber/go-playground-mcp)**           | MCP server for Go Playground, run and share Go code from your AI assistant |
 | 🛡️ **[the-great-gpt-firewall](https://github.com/samber/the-great-gpt-firewall)** | Curated list of sites blocking AI crawlers via `robots.txt`                |
 | 🧠 **[awesome-ai-native](https://github.com/samber/awesome-ai-native)**           | Curated list of AI-native tools where the LLM is the product itself        |
